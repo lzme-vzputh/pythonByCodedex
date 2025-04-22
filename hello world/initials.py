@@ -1,0 +1,7 @@
+print('V   V')
+print('V   V')
+print('V   V')
+print('V   V')
+print('V   V')
+print(' V V')
+print('  V')

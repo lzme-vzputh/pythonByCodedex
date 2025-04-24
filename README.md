@@ -2,7 +2,7 @@
 # Student year 3 at Royal university of Phnom Penh.
 Challenge Python With me
 
-Here'sasimplefootnote,[^A] andhere'salonger one.[^bignote]
+
 
 This is the first line.
 And this is the second line.
@@ -32,10 +32,16 @@ ID | Name | Position | Address
 01 | vz | MD | PP
 
 
-[^A]:This is the first footnote.
-[^bignote]:Here's one with multiple paragraphs and code.
-          
-     Indent paragraphs to include them in the footnote.
-     `{mycode}`
-     Add as many paragraphs as you like.
 
+**First Term**  
+🎱This is the definition of the first term.
+
+**Second Term**  
+ 🥇This is one definition of the second term.  
+ 🥈This is another definition of the second term.
+
+
+ 
+- [ ] Task one (incomplete)
+- [x] Task two (complete)
+- [ ] Task three
